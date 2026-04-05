@@ -208,6 +208,8 @@ nav:
       - Packaging Pixi: misc/packaging.md
       - Community: misc/Community.md
       - FAQ: misc/FAQ.md
+  - Translation:
+      - Translation Guide (zh_CN): translation_guide_zh_cn.md
 
 hooks:
   - schema/docs_hooks.py
@@ -463,5 +465,7 @@ plugins:
 
             "Community": "社区<br><small>Community</small>"
             "FAQ": "常见问题解答<br><small>FAQ</small>"
+            "Translation Guide (zh_CN)": "中文翻译指南（zh_CN）"
+            "Translation": "翻译<br><small>By DBinK</small>"
 watch:
   - docs/
