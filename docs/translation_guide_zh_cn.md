@@ -1,21 +1,21 @@
 # Pixi 中文翻译 Style Guide
 
-## 🎯 目标
+## 目标
 
-* 保持与 Pixi / Conda / Cargo 生态一致
-* 降低用户理解成本（尤其 CLI / 报错）
-* 保证术语稳定、可复用
+- 保持与 Pixi / Conda / Cargo 生态一致
+- 降低用户理解成本（尤其 CLI / 报错）
+- 保证术语稳定、可复用
 
 ---
 
-## 🧭 总体策略
+## 总体策略
 
 ### 术语使用规则
 
-* 首次出现：**中文（英文）**
-* 后续：**优先使用英文**
-* CLI / 配置字段：**始终保留英文**
-* 不强行“全中文化”
+- 首次出现：**中文（英文）**
+- 后续：**优先使用英文**
+- CLI / 配置字段：**始终保留英文**
+- 不强行“全中文化”
 
 ---
 
@@ -23,44 +23,44 @@
 
 满足任一条件：
 
-* 用户需要在 CLI 输入（如 `task`, `run`, `install`）
-* 配置文件字段（如 `dependencies`, `feature`）
-* 无准确中文等价（如 `Feature`）
+- 用户需要在 CLI 输入（如 `task`, `run`, `install`）
+- 配置文件字段（如 `dependencies`, `feature`）
+- 无准确中文等价（如 `Feature`）
 
 
 ### 英文术语大小写规范
 
-* 默认使用小写（workspace / environment / manifest）
-* 在以下情况使用大写：
+- 默认使用小写（workspace / environment / manifest）
+- 在以下情况使用大写：
 
-  * 术语定义
-  * 标题
-  * 明确作为专有概念强调时
-* Feature 始终使用大写（Feature）
+  - 术语定义
+  - 标题
+  - 明确作为专有概念强调时
+- Feature 始终使用大写（Feature）
 ---
 
 ### 何时使用中文
 
-* 通用概念（如 环境 / 依赖 / 平台）
-* 不影响 CLI 对照理解
+- 通用概念（如 环境 / 依赖 / 平台）
+- 不影响 CLI 对照理解
 
 ---
 
-## ✍️ 术语格式规范
+## 术语格式规范
 
 ### 标准写法
 
-* 工作区（workspace）
-* 项目清单（manifest）
-* 环境（environment）
+- 工作区（workspace）
+- 项目清单（manifest）
+- 环境（environment）
 
 ---
 
 ### Feature 特例（必须遵守）
 
-* 写法：**Feature（功能模块）**
-* 后文：只用 `Feature`
-* ❌ 禁止：特性
+- 写法：**Feature（功能模块）**
+- 后文：只用 `Feature`
+- ❌ 禁止：特性
 
 ---
 
@@ -68,44 +68,44 @@
 
 二选一（全文统一）：
 
-* 推荐：通道（channel）
-* 或：直接使用 channel
+- 推荐：通道（channel）
+- 或：直接使用 channel
 
 ---
 
-## 🧱 句式与语气
+## 句式与语气
 
 ### 推荐风格
 
-* 简洁、工程化
-* 避免文学表达
-* 优先动词开头
+- 简洁、工程化
+- 避免文学表达
+- 优先动词开头
 
 示例：
 
-* ✅ 使用 `pixi install` 安装依赖
-* ❌ 你可以通过执行命令来完成依赖的安装
+- ✅ 使用 `pixi install` 安装依赖
+- ❌ 你可以通过执行命令来完成依赖的安装
 
 ---
 
 ### 中英混排规则
 
-* 英文术语前后留空格
-* 代码 / 命令使用反引号
+- 英文术语前后留空格
+- 代码 / 命令使用反引号
 
 示例：
 
-* 在 workspace 中定义 environment
-* 运行 `pixi run test`
+- 在 workspace 中定义 environment
+- 运行 `pixi run test`
 
 ---
 
-## 💻 CLI 与代码规范
+## CLI 与代码规范
 
 ### CLI 命令
 
-* 永远保持英文
-* 使用反引号
+- 永远保持英文
+- 使用反引号
 
 ```
 pixi install
@@ -116,9 +116,9 @@ pixi run build
 
 ### 配置文件（pixi.toml）
 
-* key 不翻译
-* value 不翻译
-* 解释用中文
+- key 不翻译
+- value 不翻译
+- 解释用中文
 
 ```toml
 [dependencies]
@@ -127,20 +127,20 @@ python = "3.11"
 
 说明：
 
-* `dependencies`：依赖列表
+- `dependencies`：依赖列表
 
 ---
 
-## ⚠️ 常见错误（必须避免）
+## 常见错误（必须避免）
 
-* ❌ Feature → 特性
-* ❌ Channel → 频道
-* ❌ Trampolines → 蹦床
-* ❌ Prefix → 前缀（单独使用）
+- ❌ Feature → 特性
+- ❌ Channel → 频道
+- ❌ Trampolines → 蹦床
+- ❌ Prefix → 前缀（单独使用）
 
 ---
 
-# 📚 Pixi 扩展术语表（推荐终稿）
+# Pixi 扩展术语表（推荐终稿）
 
 ## 核心概念
 
@@ -224,5 +224,3 @@ python = "3.11"
 | Isolation       | 隔离性（isolation）        | 可中文  | 环境隔离 |
 | Deterministic   | 确定性（deterministic）    | 可中文  | 构建稳定 |
 | Metadata        | 元数据（metadata）         | 可中文  | 包信息  |
-
----
