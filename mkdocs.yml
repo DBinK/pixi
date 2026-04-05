@@ -6,6 +6,7 @@ edit_uri: edit/main/docs/
 
 theme:
   name: material
+  language: en # 默认 UI 语言
   custom_dir: docs/overrides
   favicon: assets/pixi.png
   logo: assets/pixi-logo.svg
@@ -49,12 +50,13 @@ theme:
     - content.code.annotate
     - content.tooltips
     #    - content.code.select
-    - navigation.instant
+    # - navigation.instant   # Material 主题的“即时加载”功能（不刷新页面切换内容）会干扰 i18n 的路径重定向, 暂时禁用
     - navigation.instant.progress
     - navigation.tracking
     - navigation.indexes
     - navigation.top
     - navigation.footer
+    - i18n.languages # 启用 Material 主题的语言切换下拉菜单
 
 extra_css:
   - stylesheets/extra.css
@@ -332,5 +334,17 @@ plugins:
           - CHANGELOG.md
           - misc/*.md
 
+  - i18n:
+      languages:
+        - locale: en
+          name: English
+          default: true
+          build: true
+        - locale: zh
+          name: 简体中文
+          build: true
+          nav_translations:
+            "Getting Started": "开始使用"
+            "Installation": "安装教程"
 watch:
   - docs/
