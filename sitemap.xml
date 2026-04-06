@@ -1,0 +1,2663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/conda_ecosystem/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/conda_ecosystem/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/conda_ecosystem/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/first_workspace/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/first_workspace/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/first_workspace/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/getting_started/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/getting_started/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/getting_started/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/installation/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/installation/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/installation/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/translation_guide_zh_cn/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/translation_guide_zh_cn/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/translation_guide_zh_cn/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/advanced/channel_logic/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/advanced/channel_logic/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/advanced/channel_logic/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/advanced/explain_info_command/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/advanced/explain_info_command/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/advanced/explain_info_command/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/advanced/override/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/advanced/override/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/advanced/override/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/advanced/pixi_shell/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/advanced/pixi_shell/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/advanced/pixi_shell/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/advanced/shebang/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/advanced/shebang/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/advanced/shebang/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/build/advanced_cpp/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/advanced_cpp/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/advanced_cpp/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/build/backends/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/backends/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/backends/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/build/cpp/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/cpp/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/cpp/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/build/dependency_types/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/dependency_types/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/dependency_types/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/build/dev/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/dev/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/dev/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/build/getting_started/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/getting_started/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/getting_started/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/build/package_source/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/package_source/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/package_source/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/build/python/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/python/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/python/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/build/ros/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/ros/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/ros/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/build/variants/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/variants/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/variants/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/build/workspace/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/workspace/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/workspace/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/build/backends/pixi-build-cmake/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/backends/pixi-build-cmake/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/backends/pixi-build-cmake/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/build/backends/pixi-build-mojo/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/backends/pixi-build-mojo/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/backends/pixi-build-mojo/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/build/backends/pixi-build-python/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/backends/pixi-build-python/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/backends/pixi-build-python/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/build/backends/pixi-build-r/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/backends/pixi-build-r/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/backends/pixi-build-r/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/build/backends/pixi-build-rattler-build/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/backends/pixi-build-rattler-build/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/backends/pixi-build-rattler-build/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/build/backends/pixi-build-ros/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/backends/pixi-build-ros/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/backends/pixi-build-ros/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/build/backends/pixi-build-rust/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/backends/pixi-build-rust/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/backends/pixi-build-rust/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/build/key_concepts/compilers/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/key_concepts/compilers/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/key_concepts/compilers/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/concepts/conda_pypi/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/concepts/conda_pypi/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/concepts/conda_pypi/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/concepts/package_specifications/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/concepts/package_specifications/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/concepts/package_specifications/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/deployment/artifactory/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/deployment/artifactory/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/deployment/artifactory/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/deployment/authentication/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/deployment/authentication/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/deployment/authentication/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/deployment/container/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/deployment/container/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/deployment/container/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/deployment/pixi_pack/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/deployment/pixi_pack/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/deployment/pixi_pack/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/deployment/prefix/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/deployment/prefix/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/deployment/prefix/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/deployment/s3/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/deployment/s3/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/deployment/s3/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/global_tools/introduction/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/global_tools/introduction/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/global_tools/introduction/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/global_tools/manifest/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/global_tools/manifest/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/global_tools/manifest/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/global_tools/trampolines/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/global_tools/trampolines/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/global_tools/trampolines/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/integration/ci/github_actions/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/ci/github_actions/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/ci/github_actions/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/integration/ci/updates_github_actions/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/ci/updates_github_actions/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/ci/updates_github_actions/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/integration/editor/jetbrains/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/editor/jetbrains/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/editor/jetbrains/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/integration/editor/jupyterlab/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/editor/jupyterlab/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/editor/jupyterlab/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/integration/editor/r_studio/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/editor/r_studio/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/editor/r_studio/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/integration/editor/vscode/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/editor/vscode/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/editor/vscode/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/integration/editor/zed/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/editor/zed/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/editor/zed/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/integration/extensions/introduction/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/extensions/introduction/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/extensions/introduction/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/integration/extensions/pixi_browse/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/extensions/pixi_browse/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/extensions/pixi_browse/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/integration/extensions/pixi_diff/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/extensions/pixi_diff/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/extensions/pixi_diff/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/integration/extensions/pixi_inject/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/extensions/pixi_inject/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/extensions/pixi_inject/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/integration/extensions/pixi_install_to_prefix/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/extensions/pixi_install_to_prefix/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/extensions/pixi_install_to_prefix/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/integration/extensions/pixi_skills/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/extensions/pixi_skills/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/extensions/pixi_skills/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/integration/third_party/conda_deny/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/third_party/conda_deny/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/third_party/conda_deny/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/integration/third_party/direnv/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/third_party/direnv/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/third_party/direnv/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/integration/third_party/starship/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/third_party/starship/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/third_party/starship/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/misc/Community/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/misc/Community/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/misc/Community/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/misc/FAQ/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/misc/FAQ/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/misc/FAQ/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/misc/packaging/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/misc/packaging/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/misc/packaging/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/misc/vision/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/misc/vision/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/misc/vision/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/partials/conda-style-activation/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/partials/conda-style-activation/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/partials/conda-style-activation/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/python/pyproject_toml/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/python/pyproject_toml/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/python/pyproject_toml/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/python/pytorch/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/python/pytorch/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/python/pytorch/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/python/tutorial/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/python/tutorial/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/python/tutorial/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/environment_variables/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/environment_variables/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/environment_variables/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/pixi_configuration/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/pixi_configuration/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/pixi_configuration/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/pixi_manifest/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/pixi_manifest/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/pixi_manifest/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/__README/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/__README/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/__README/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/add/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/add/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/add/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/auth/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/auth/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/auth/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/build/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/build/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/build/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/clean/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/clean/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/clean/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/completion/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/completion/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/completion/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/config/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/config/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/config/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/exec/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/exec/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/exec/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/global/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/import/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/import/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/import/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/info/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/info/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/info/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/init/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/init/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/init/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/install/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/install/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/install/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/list/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/list/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/list/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/lock/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/lock/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/lock/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/publish/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/publish/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/publish/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/reinstall/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/reinstall/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/reinstall/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/remove/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/remove/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/remove/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/run/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/run/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/run/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/search/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/search/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/search/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/self-update/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/self-update/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/self-update/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/shell-hook/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/shell-hook/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/shell-hook/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/shell/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/shell/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/shell/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/task/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/task/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/task/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/tree/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/tree/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/tree/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/update/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/update/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/update/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/upgrade/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/upgrade/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/upgrade/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/upload/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/upload/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/upload/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/auth/login/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/auth/login/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/auth/login/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/auth/logout/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/auth/logout/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/auth/logout/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/clean/cache/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/clean/cache/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/clean/cache/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/config/append/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/config/append/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/config/append/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/config/edit/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/config/edit/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/config/edit/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/config/list/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/config/list/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/config/list/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/config/prepend/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/config/prepend/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/config/prepend/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/config/set/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/config/set/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/config/set/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/config/unset/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/config/unset/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/config/unset/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/global/add/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/add/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/add/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/global/edit/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/edit/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/edit/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/global/expose/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/expose/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/expose/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/global/install/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/install/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/install/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/global/list/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/list/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/list/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/global/remove/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/remove/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/remove/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/global/shortcut/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/shortcut/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/shortcut/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/global/sync/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/sync/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/sync/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/global/tree/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/tree/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/tree/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/global/uninstall/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/uninstall/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/uninstall/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/global/update/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/update/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/update/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/global/upgrade-all/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/upgrade-all/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/upgrade-all/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/global/upgrade/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/upgrade/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/upgrade/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/global/expose/add/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/expose/add/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/expose/add/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/global/expose/remove/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/expose/remove/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/expose/remove/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/global/shortcut/add/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/shortcut/add/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/shortcut/add/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/global/shortcut/remove/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/shortcut/remove/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/shortcut/remove/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/task/add/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/task/add/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/task/add/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/task/alias/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/task/alias/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/task/alias/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/task/list/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/task/list/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/task/list/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/task/remove/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/task/remove/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/task/remove/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/upload/anaconda/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/upload/anaconda/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/upload/anaconda/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/upload/artifactory/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/upload/artifactory/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/upload/artifactory/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/upload/cloudsmith/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/upload/cloudsmith/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/upload/cloudsmith/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/upload/conda-forge/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/upload/conda-forge/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/upload/conda-forge/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/upload/prefix/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/upload/prefix/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/upload/prefix/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/upload/quetz/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/upload/quetz/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/upload/quetz/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/upload/s3/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/upload/s3/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/upload/s3/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/channel/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/channel/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/channel/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/description/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/description/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/description/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/environment/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/environment/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/environment/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/export/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/export/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/export/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/feature/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/feature/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/feature/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/name/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/name/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/name/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/platform/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/platform/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/platform/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/register/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/register/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/register/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/requires-pixi/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/requires-pixi/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/requires-pixi/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/system-requirements/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/system-requirements/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/system-requirements/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/version/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/version/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/version/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/channel/add/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/channel/add/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/channel/add/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/channel/list/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/channel/list/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/channel/list/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/channel/remove/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/channel/remove/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/channel/remove/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/description/get/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/description/get/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/description/get/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/description/set/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/description/set/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/description/set/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/environment/add/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/environment/add/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/environment/add/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/environment/list/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/environment/list/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/environment/list/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/environment/remove/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/environment/remove/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/environment/remove/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/export/conda-environment/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/export/conda-environment/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/export/conda-environment/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/export/conda-explicit-spec/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/export/conda-explicit-spec/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/export/conda-explicit-spec/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/feature/list/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/feature/list/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/feature/list/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/feature/remove/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/feature/remove/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/feature/remove/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/name/get/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/name/get/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/name/get/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/name/set/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/name/set/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/name/set/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/platform/add/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/platform/add/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/platform/add/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/platform/list/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/platform/list/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/platform/list/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/platform/remove/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/platform/remove/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/platform/remove/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/register/list/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/register/list/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/register/list/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/register/prune/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/register/prune/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/register/prune/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/register/remove/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/register/remove/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/register/remove/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/requires-pixi/get/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/requires-pixi/get/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/requires-pixi/get/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/requires-pixi/set/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/requires-pixi/set/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/requires-pixi/set/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/requires-pixi/unset/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/requires-pixi/unset/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/requires-pixi/unset/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/requires-pixi/verify/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/requires-pixi/verify/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/requires-pixi/verify/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/system-requirements/add/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/system-requirements/add/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/system-requirements/add/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/system-requirements/list/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/system-requirements/list/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/system-requirements/list/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/version/get/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/version/get/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/version/get/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/version/major/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/version/major/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/version/major/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/version/minor/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/version/minor/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/version/minor/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/version/patch/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/version/patch/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/version/patch/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/version/set/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/version/set/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/version/set/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/switching_from/conda/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/switching_from/conda/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/switching_from/conda/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/switching_from/poetry/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/switching_from/poetry/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/switching_from/poetry/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/switching_from/uv/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/switching_from/uv/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/switching_from/uv/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/tutorials/import/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/tutorials/import/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/tutorials/import/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/tutorials/multi_environment/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/tutorials/multi_environment/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/tutorials/multi_environment/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/tutorials/ros2/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/tutorials/ros2/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/tutorials/ros2/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/tutorials/rust/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/tutorials/rust/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/tutorials/rust/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/workspace/advanced_tasks/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/workspace/advanced_tasks/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/workspace/advanced_tasks/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/workspace/environment/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/workspace/environment/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/workspace/environment/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/workspace/lockfile/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/workspace/lockfile/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/workspace/lockfile/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/workspace/multi_environment/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/workspace/multi_environment/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/workspace/multi_environment/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/workspace/multi_platform_configuration/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/workspace/multi_platform_configuration/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/workspace/multi_platform_configuration/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/workspace/system_requirements/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/workspace/system_requirements/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/workspace/system_requirements/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/conda_ecosystem/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/conda_ecosystem/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/conda_ecosystem/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/first_workspace/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/first_workspace/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/first_workspace/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/getting_started/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/getting_started/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/getting_started/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/installation/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/installation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/installation/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/translation_guide_zh_cn/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/translation_guide_zh_cn/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/translation_guide_zh_cn/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/advanced/channel_logic/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/advanced/channel_logic/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/advanced/channel_logic/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/advanced/explain_info_command/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/advanced/explain_info_command/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/advanced/explain_info_command/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/advanced/override/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/advanced/override/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/advanced/override/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/advanced/pixi_shell/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/advanced/pixi_shell/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/advanced/pixi_shell/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/advanced/shebang/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/advanced/shebang/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/advanced/shebang/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/build/advanced_cpp/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/advanced_cpp/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/advanced_cpp/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/build/backends/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/backends/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/backends/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/build/cpp/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/cpp/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/cpp/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/build/dependency_types/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/dependency_types/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/dependency_types/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/build/dev/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/dev/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/dev/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/build/getting_started/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/getting_started/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/getting_started/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/build/package_source/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/package_source/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/package_source/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/build/python/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/python/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/python/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/build/ros/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/ros/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/ros/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/build/variants/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/variants/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/variants/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/build/workspace/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/workspace/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/workspace/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/build/backends/pixi-build-cmake/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/backends/pixi-build-cmake/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/backends/pixi-build-cmake/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/build/backends/pixi-build-mojo/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/backends/pixi-build-mojo/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/backends/pixi-build-mojo/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/build/backends/pixi-build-python/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/backends/pixi-build-python/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/backends/pixi-build-python/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/build/backends/pixi-build-r/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/backends/pixi-build-r/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/backends/pixi-build-r/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/build/backends/pixi-build-rattler-build/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/backends/pixi-build-rattler-build/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/backends/pixi-build-rattler-build/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/build/backends/pixi-build-ros/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/backends/pixi-build-ros/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/backends/pixi-build-ros/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/build/backends/pixi-build-rust/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/backends/pixi-build-rust/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/backends/pixi-build-rust/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/build/key_concepts/compilers/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/build/key_concepts/compilers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/build/key_concepts/compilers/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/concepts/conda_pypi/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/concepts/conda_pypi/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/concepts/conda_pypi/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/concepts/package_specifications/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/concepts/package_specifications/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/concepts/package_specifications/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/deployment/artifactory/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/deployment/artifactory/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/deployment/artifactory/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/deployment/authentication/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/deployment/authentication/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/deployment/authentication/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/deployment/container/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/deployment/container/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/deployment/container/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/deployment/pixi_pack/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/deployment/pixi_pack/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/deployment/pixi_pack/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/deployment/prefix/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/deployment/prefix/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/deployment/prefix/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/deployment/s3/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/deployment/s3/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/deployment/s3/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/global_tools/introduction/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/global_tools/introduction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/global_tools/introduction/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/global_tools/manifest/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/global_tools/manifest/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/global_tools/manifest/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/global_tools/trampolines/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/global_tools/trampolines/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/global_tools/trampolines/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/integration/ci/github_actions/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/ci/github_actions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/ci/github_actions/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/integration/ci/updates_github_actions/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/ci/updates_github_actions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/ci/updates_github_actions/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/integration/editor/jetbrains/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/editor/jetbrains/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/editor/jetbrains/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/integration/editor/jupyterlab/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/editor/jupyterlab/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/editor/jupyterlab/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/integration/editor/r_studio/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/editor/r_studio/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/editor/r_studio/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/integration/editor/vscode/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/editor/vscode/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/editor/vscode/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/integration/editor/zed/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/editor/zed/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/editor/zed/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/integration/extensions/introduction/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/extensions/introduction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/extensions/introduction/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/integration/extensions/pixi_browse/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/extensions/pixi_browse/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/extensions/pixi_browse/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/integration/extensions/pixi_diff/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/extensions/pixi_diff/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/extensions/pixi_diff/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/integration/extensions/pixi_inject/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/extensions/pixi_inject/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/extensions/pixi_inject/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/integration/extensions/pixi_install_to_prefix/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/extensions/pixi_install_to_prefix/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/extensions/pixi_install_to_prefix/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/integration/extensions/pixi_skills/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/extensions/pixi_skills/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/extensions/pixi_skills/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/integration/third_party/conda_deny/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/third_party/conda_deny/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/third_party/conda_deny/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/integration/third_party/direnv/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/third_party/direnv/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/third_party/direnv/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/integration/third_party/starship/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/integration/third_party/starship/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/integration/third_party/starship/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/misc/Community/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/misc/Community/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/misc/Community/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/misc/FAQ/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/misc/FAQ/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/misc/FAQ/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/misc/packaging/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/misc/packaging/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/misc/packaging/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/misc/vision/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/misc/vision/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/misc/vision/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/partials/conda-style-activation/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/partials/conda-style-activation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/partials/conda-style-activation/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/python/pyproject_toml/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/python/pyproject_toml/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/python/pyproject_toml/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/python/pytorch/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/python/pytorch/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/python/pytorch/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/python/tutorial/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/python/tutorial/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/python/tutorial/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/environment_variables/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/environment_variables/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/environment_variables/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/pixi_configuration/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/pixi_configuration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/pixi_configuration/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/pixi_manifest/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/pixi_manifest/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/pixi_manifest/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/__README/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/__README/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/__README/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/add/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/add/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/add/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/auth/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/auth/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/auth/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/build/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/build/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/build/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/clean/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/clean/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/clean/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/completion/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/completion/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/completion/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/config/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/config/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/config/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/exec/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/exec/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/exec/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/import/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/import/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/import/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/info/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/info/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/info/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/init/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/init/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/init/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/install/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/install/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/install/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/list/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/list/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/list/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/lock/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/lock/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/lock/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/publish/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/publish/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/publish/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/reinstall/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/reinstall/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/reinstall/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/remove/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/remove/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/remove/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/run/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/run/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/run/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/search/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/search/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/search/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/self-update/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/self-update/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/self-update/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/shell-hook/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/shell-hook/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/shell-hook/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/shell/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/shell/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/shell/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/task/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/task/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/task/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/tree/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/tree/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/tree/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/update/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/update/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/update/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/upgrade/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/upgrade/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/upgrade/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/upload/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/upload/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/upload/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/auth/login/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/auth/login/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/auth/login/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/auth/logout/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/auth/logout/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/auth/logout/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/clean/cache/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/clean/cache/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/clean/cache/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/config/append/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/config/append/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/config/append/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/config/edit/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/config/edit/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/config/edit/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/config/list/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/config/list/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/config/list/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/config/prepend/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/config/prepend/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/config/prepend/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/config/set/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/config/set/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/config/set/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/config/unset/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/config/unset/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/config/unset/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/add/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/add/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/add/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/edit/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/edit/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/edit/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/expose/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/expose/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/expose/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/install/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/install/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/install/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/list/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/list/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/list/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/remove/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/remove/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/remove/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/shortcut/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/shortcut/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/shortcut/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/sync/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/sync/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/sync/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/tree/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/tree/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/tree/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/uninstall/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/uninstall/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/uninstall/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/update/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/update/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/update/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/upgrade-all/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/upgrade-all/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/upgrade-all/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/upgrade/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/upgrade/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/upgrade/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/expose/add/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/expose/add/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/expose/add/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/expose/remove/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/expose/remove/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/expose/remove/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/shortcut/add/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/shortcut/add/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/shortcut/add/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/shortcut/remove/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/global/shortcut/remove/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/global/shortcut/remove/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/task/add/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/task/add/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/task/add/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/task/alias/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/task/alias/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/task/alias/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/task/list/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/task/list/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/task/list/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/task/remove/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/task/remove/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/task/remove/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/upload/anaconda/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/upload/anaconda/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/upload/anaconda/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/upload/artifactory/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/upload/artifactory/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/upload/artifactory/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/upload/cloudsmith/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/upload/cloudsmith/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/upload/cloudsmith/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/upload/conda-forge/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/upload/conda-forge/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/upload/conda-forge/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/upload/prefix/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/upload/prefix/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/upload/prefix/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/upload/quetz/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/upload/quetz/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/upload/quetz/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/upload/s3/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/upload/s3/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/upload/s3/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/channel/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/channel/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/channel/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/description/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/description/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/description/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/environment/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/environment/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/environment/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/export/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/export/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/export/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/feature/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/feature/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/feature/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/name/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/name/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/name/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/platform/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/platform/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/platform/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/register/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/register/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/register/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/requires-pixi/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/requires-pixi/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/requires-pixi/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/system-requirements/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/system-requirements/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/system-requirements/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/version/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/version/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/version/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/channel/add/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/channel/add/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/channel/add/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/channel/list/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/channel/list/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/channel/list/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/channel/remove/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/channel/remove/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/channel/remove/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/description/get/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/description/get/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/description/get/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/description/set/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/description/set/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/description/set/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/environment/add/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/environment/add/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/environment/add/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/environment/list/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/environment/list/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/environment/list/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/environment/remove/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/environment/remove/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/environment/remove/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/export/conda-environment/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/export/conda-environment/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/export/conda-environment/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/export/conda-explicit-spec/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/export/conda-explicit-spec/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/export/conda-explicit-spec/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/feature/list/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/feature/list/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/feature/list/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/feature/remove/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/feature/remove/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/feature/remove/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/name/get/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/name/get/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/name/get/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/name/set/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/name/set/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/name/set/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/platform/add/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/platform/add/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/platform/add/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/platform/list/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/platform/list/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/platform/list/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/platform/remove/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/platform/remove/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/platform/remove/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/register/list/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/register/list/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/register/list/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/register/prune/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/register/prune/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/register/prune/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/register/remove/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/register/remove/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/register/remove/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/requires-pixi/get/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/requires-pixi/get/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/requires-pixi/get/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/requires-pixi/set/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/requires-pixi/set/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/requires-pixi/set/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/requires-pixi/unset/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/requires-pixi/unset/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/requires-pixi/unset/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/requires-pixi/verify/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/requires-pixi/verify/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/requires-pixi/verify/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/system-requirements/add/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/system-requirements/add/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/system-requirements/add/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/system-requirements/list/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/system-requirements/list/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/system-requirements/list/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/version/get/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/version/get/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/version/get/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/version/major/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/version/major/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/version/major/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/version/minor/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/version/minor/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/version/minor/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/version/patch/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/version/patch/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/version/patch/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/version/set/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/reference/cli/pixi/workspace/version/set/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/reference/cli/pixi/workspace/version/set/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/switching_from/conda/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/switching_from/conda/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/switching_from/conda/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/switching_from/poetry/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/switching_from/poetry/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/switching_from/poetry/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/switching_from/uv/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/switching_from/uv/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/switching_from/uv/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/tutorials/import/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/tutorials/import/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/tutorials/import/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/tutorials/multi_environment/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/tutorials/multi_environment/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/tutorials/multi_environment/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/tutorials/ros2/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/tutorials/ros2/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/tutorials/ros2/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/tutorials/rust/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/tutorials/rust/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/tutorials/rust/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/workspace/advanced_tasks/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/workspace/advanced_tasks/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/workspace/advanced_tasks/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/workspace/environment/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/workspace/environment/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/workspace/environment/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/workspace/lockfile/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/workspace/lockfile/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/workspace/lockfile/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/workspace/multi_environment/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/workspace/multi_environment/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/workspace/multi_environment/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/workspace/multi_platform_configuration/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/workspace/multi_platform_configuration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/workspace/multi_platform_configuration/"/>
+    </url>
+    <url>
+        <loc>https://prefix-dev.github.io/pixi/zh/workspace/system_requirements/</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://prefix-dev.github.io/pixi/zh/workspace/system_requirements/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://prefix-dev.github.io/pixi/workspace/system_requirements/"/>
+    </url>
+</urlset>
